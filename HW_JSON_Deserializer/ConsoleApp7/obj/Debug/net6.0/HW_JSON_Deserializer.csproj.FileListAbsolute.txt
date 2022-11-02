@@ -1,0 +1,15 @@
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\HW_JSON_Deserializer.exe
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\HW_JSON_Deserializer.deps.json
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\HW_JSON_Deserializer.runtimeconfig.json
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\HW_JSON_Deserializer.dll
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\HW_JSON_Deserializer.pdb
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\HW_JSON_Deserializer.csproj.AssemblyReference.cache
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\HW_JSON_Deserializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\HW_JSON_Deserializer.AssemblyInfoInputs.cache
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\HW_JSON_Deserializer.AssemblyInfo.cs
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\HW_JSON_Deserializer.csproj.CoreCompileInputs.cache
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\HW_JSON_Deserializer.dll
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\HW_JSON_Deserializer.dll
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\HW_JSON_Deserializer.pdb
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\HW_JSON_Deserializer.genruntimeconfig.cache
+C:\Users\Ya\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\HW_JSON_Deserializer.dll
